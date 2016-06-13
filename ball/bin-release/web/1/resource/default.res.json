@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "ball_bg_png,circle_140_png,menu_png,menulayer_bg_png,res_fail_png,res_suc_png,redo_png,nextlevel,menuItem",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description"
+		},
+		{
+			"url": "assets/ball_bg.png",
+			"type": "image",
+			"name": "ball_bg_png"
+		},
+		{
+			"url": "assets/circle_140.png",
+			"type": "image",
+			"name": "circle_140_png"
+		},
+		{
+			"name": "menu_png",
+			"type": "image",
+			"url": "assets/menu.png"
+		},
+		{
+			"name": "menulayer_bg_png",
+			"type": "image",
+			"url": "assets/menu/menulayer_bg.png"
+		},
+		{
+			"name": "res_fail_png",
+			"type": "image",
+			"url": "assets/menu/res_fail.png"
+		},
+		{
+			"name": "res_suc_png",
+			"type": "image",
+			"url": "assets/menu/res_suc.png"
+		},
+		{
+			"name": "redo_png",
+			"type": "image",
+			"url": "assets/redo.png"
+		},
+		{
+			"name": "nextlevel",
+			"type": "image",
+			"url": "assets/menu/nextlevel.png"
+		},
+		{
+			"name": "menuItem",
+			"type": "image",
+			"url": "assets/menu/menu_item.png"
+		}
+	]
+}
